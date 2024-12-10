@@ -2116,7 +2116,7 @@ function Library.new(config)
 				};
 			end;
 			
-			function PrintText(text)
+			function Library.PrintText(text)
 				    print(text.TextInt.Text)
 				end
 
